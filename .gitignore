@@ -1,0 +1,49 @@
+# Python-related files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+__init__.pyc
+__init__.pyo
+
+# Virtual environment
+venv/
+
+
+# IDE or code editor files
+.vscode/
+
+
+# Database files
+db.sqlite3
+
+# Log files
+*.log
+
+# Dependency directories
+node_modules/
+bower_components/
+
+
+
+
+
+# Secret keys
+*.secret
+
+# Django generated files
+*.pot
+*.pyc
+*.sqlite3
+__pycache__
+*.log
+*.pot
+
+# Temporary files
+*.bak
+*.swp
+*~
+
+
+# Ignore .env file if you use it for environment variables
+.env
